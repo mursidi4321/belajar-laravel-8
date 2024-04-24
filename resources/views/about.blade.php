@@ -6,3 +6,5 @@
     <h2>{{ $email }}</h2>
     <img src="img/{{ $image }}" alt="{{ $name }}">
 @endsection()
+
+
